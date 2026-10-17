@@ -32,13 +32,13 @@ The project demonstrates a basic defensive-security workflow:
 
 The first screenshot shows the original monitoring view, where EDR Sentinel detects multiple Chrome processes and logs their PIDs.
 
-![EDR Sentinel detection log showing Chrome process matches](screenshots/edr-sentinel-detection-log.png)
+![EDR Sentinel detection log](edr-sentinel-detection-log.png)
 
 ### 2. Process Dashboard — Manual Review
 
 The second screenshot shows the process table, response-status column, **Review Selected** button, and restricted **Stop Selected Test Process** action.
 
-![EDR Sentinel process dashboard with manual review controls](screenshots/edr-sentinel-manual-response-dashboard.png)
+![EDR Sentinel manual review dashboard](edr-sentinel-manual-response-dashboard.png)
 
 <sub>These screenshots demonstrate process detection and the review interface. They do not show a completed test-process termination.</sub>
 
