@@ -1,0 +1,4 @@
+chrome.exe
+notepad.exe
+calc.exe
+edr_test_process.exe
